@@ -4,7 +4,7 @@
 <h1>Hi, I'm Omkar!👋 </h1>
 
 
-<h6>I'm a Computer Science student,, as I have experience of more than 5+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack in MERN Stack) with Advanced Framework.</h6>
+<h6>I'm a Computer Science student, as I have experience of more than 5+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack in MERN Stack) with Advanced Framework.</h6>
 
 
 
